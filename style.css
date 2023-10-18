@@ -1,0 +1,39 @@
+*{
+    margin: 0px;
+    padding: 0PX;
+}
+.topbar{
+    background-color: black;
+    padding: 25px; 
+    padding-left: 20vw; 
+    padding-right: 20vw;  
+}
+.topbar>ul{
+    display: flex;
+    justify-content: space-between;
+    justify-items:center;
+    color: azure;
+}
+.topbar>ul{
+    list-style-type: none;
+}
+.hero{
+    background-color: rgb(234, 232, 230);
+    height: 8%;
+    padding-left: 10px;
+    padding-right: 10px; 
+    display: flex;
+    justify-content: space-between;
+    justify-items: center;  
+    padding-left: 15vw;
+    padding-right: 15vw;    
+}
+.card{
+    
+}
+.card>img{
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+}
